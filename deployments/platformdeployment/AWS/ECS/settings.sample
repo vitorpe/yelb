@@ -1,0 +1,6 @@
+export AWS_ACCOUNT_ID=<fill-me>
+export AWS_DEFAULT_REGION=<fill-me>
+export ENVOY_IMAGE="840364872350.dkr.ecr.${AWS_REGION}.amazonaws.com/aws-appmesh-envoy:v1.12.2.1-prod"
+export VPC=<fill-me>
+export PUBLIC_SUBNET_1=<fill-me>
+export PUBLIC_SUBNET_2=<fill-me>
